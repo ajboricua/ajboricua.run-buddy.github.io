@@ -12,3 +12,4 @@ https://run-buddy.github.io
 
 ## Contribution
 Made with ❤️ by Tony Rivera
+# Run Buddy Inc.
