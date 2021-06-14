@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://run-buddy.github.io/
+https://ajboricua.run-buddy.github.io
 
 ## Contribution
 Made with ❤️ by Tony Rivera
