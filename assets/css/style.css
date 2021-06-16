@@ -286,6 +286,7 @@ section {
 
 /* trainer css end */
 
+
 /* reach out section */
 
 .contact {
@@ -302,7 +303,7 @@ section {
   flex-wrap: wrap;
 }
 
-.contact-info > *{
+.contact-info > * {
   flex: 1;
   margin: 15px;
 }
@@ -359,14 +360,6 @@ section {
 
 /* reach out style ends */
 
-/* UTILITIES */
-.text-left {
-  text-align: left;
-}
-
-.text-right {
-  text-align: right;
-}
 
 .flex-row {
   display: flex;
